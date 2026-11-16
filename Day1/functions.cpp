@@ -48,20 +48,18 @@ int main() {
 // do some work
 // return someValue; }
 
-#include<iostream>
-using namespace std;
-int sum(int a, int b) { // a,b are parameter 
-    int sum = a + b;
-    return sum;
 
-                                //    same for diff
 
-}
 
-int main() {
-    int s = sum(2, 4); // 2,4 are arguments 
-    cout << "sum = " << s << endl;
-    return 0;
-}
+/* what happen in   Memory */
 
- 
+//stack -> for functions  // heap / dynamic
+
+
+  /*  Scope */
+
+  // area where a var can be accesed or used     * function    loops, if - else , { }
+
+// local variable 
+//global var
+
