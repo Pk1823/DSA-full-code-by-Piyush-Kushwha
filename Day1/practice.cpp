@@ -142,3 +142,11 @@ int main() {
 
 }  
     */
+
+
+    /* Practice */
+
+    // WAF to find the binomial coefficient for given n & r.
+     
+    // #include<iostream>
+    // usi 
